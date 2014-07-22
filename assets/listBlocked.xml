@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <phone value="0615073423">Moi</phone>
+    <phone value="0770721000">Toi</phone>
+
+    <sms value="0615073423">Lui</sms>
+    <sms value="0770721000">Elle</sms>
+
+</resources>
